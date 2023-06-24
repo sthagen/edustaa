@@ -1,7 +1,7 @@
 """Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, pdf, and troff format guided by conventions."""
 # [[[fill git_describe()]]]
-__version__ = '2023.6.21+parent.090d802f'
-# [[[end]]] (checksum: b2d5ee748ed63dc0bc63eda72fbc118d)
+__version__ = '2023.6.24+parent.8fac4d82'
+# [[[end]]] (checksum: ec3200952e146896da6d3e4d7785be0a)
 __version_info__ = tuple(
     e if '-' not in e else e.split('-')[0] for part in __version__.split('+') for e in part.split('.') if e != 'parent'
 )
