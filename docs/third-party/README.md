@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json) with SHA256 checksum ([8cd1faf9 ...](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json.sha256 "sha256:8cd1faf990a2118c0e3259a67a903b3b494b1a2c64af96a9e6de9ac5d2bd443d")).
-<!--[[[end]]] (checksum: 49ce8b600a513eb7c33b6e2b6f789861)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json) with SHA256 checksum ([44d1ecd3 ...](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json.sha256 "sha256:44d1ecd343fe93fb9c8258235e5a12b18b981dcc6700cb422b1a18461abbebe2")).
+<!--[[[end]]] (checksum: 4a3d925bcdb1a8e7499c373cf5bd5cc6)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -18,11 +18,9 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Indirect Dependencies
 
 <!--[[[fill indirect_dependencies_table()]]]-->
-| Name                                                 | Version                                                | License                              | Author         | Description (from packaging data)                 |
-|:-----------------------------------------------------|:-------------------------------------------------------|:-------------------------------------|:---------------|:--------------------------------------------------|
-| [certifi](https://github.com/certifi/python-certifi) | [2023.5.7](https://pypi.org/project/certifi/2023.5.7/) | Mozilla Public License 2.0 (MPL 2.0) | Kenneth Reitz  | Python package for providing Mozilla's CA Bundle. |
-| [click](https://palletsprojects.com/p/click/)        | [8.1.3](https://pypi.org/project/click/8.1.3/)         | BSD License                          | Armin Ronacher | Composable command line interface toolkit         |
-<!--[[[end]]] (checksum: f9ac0bb9466fdf070ccfee9554b8d751)-->
+| Name | Version | License | Author | Description (from packaging data) |
+|:-----|:--------|:--------|:-------|:----------------------------------|
+<!--[[[end]]] (checksum: 8a87b89207db0be2864af66f9266660c)-->
 
 ## Dependency Tree(s)
 
