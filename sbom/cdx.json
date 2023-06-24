@@ -1,0 +1,71 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:7d3a3d09-fa73-40d4-95c4-62e2d89eb798",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-06-24T08:11:28.132600+00:00",
+    "tools": [
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-bom",
+        "version": "3.11.0"
+      },
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-python-lib",
+        "version": "3.1.5",
+        "externalReferences": [
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions",
+            "type": "build-system"
+          },
+          {
+            "url": "https://pypi.org/project/cyclonedx-python-lib/",
+            "type": "distribution"
+          },
+          {
+            "url": "https://cyclonedx.github.io/cyclonedx-python-lib/",
+            "type": "documentation"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues",
+            "type": "issue-tracker"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE",
+            "type": "license"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md",
+            "type": "release-notes"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib",
+            "type": "vcs"
+          },
+          {
+            "url": "https://cyclonedx.org",
+            "type": "website"
+          }
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "b2da4a52-e1fa-4460-9ace-470b77e73897",
+      "name": "msgspec",
+      "version": "0.16.0",
+      "purl": "pkg:pypi/msgspec@0.16.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "b2da4a52-e1fa-4460-9ace-470b77e73897",
+      "dependsOn": []
+    }
+  ]
+}
