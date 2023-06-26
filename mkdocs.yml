@@ -1,4 +1,4 @@
-site_name: Vastaanottaa
+site_name: Edustaa
 site_description: "Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, pdf, and troff format guided by conventions."
 
 theme:
