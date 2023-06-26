@@ -6,13 +6,11 @@ Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, p
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
-<!--
 [![version](https://img.shields.io/pypi/v/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![downloads](https://pepy.tech/badge/edustaa/month)](https://pepy.tech/project/edustaa)
 [![wheel](https://img.shields.io/pypi/wheel/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
--->
 
 ## Bug Tracker
 
