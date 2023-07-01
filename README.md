@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/edustaa.svg?style=flat)](https://git.sr.ht/~sthagen/edustaa/log)
 
 ## Documentation
 
