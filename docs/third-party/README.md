@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json) with SHA256 checksum ([bcc818db ...](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json.sha256 "sha256:bcc818db984883c0093c457e09b6d9b54e498ef74bbd4665993d92dac736a592")).
-<!--[[[end]]] (checksum: c7d0dddb0d92814f428422556c3ccfdc)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json) with SHA256 checksum ([8cdde165 ...](https://git.sr.ht/~sthagen/edustaa/blob/default/sbom/cdx.json.sha256 "sha256:8cdde165cfd371160a5b988637d01e7783ec29716379d42e09fc03fb5256ed46")).
+<!--[[[end]]] (checksum: 614e4689007d14f20151c27e8cffd01e)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
