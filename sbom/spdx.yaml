@@ -3,7 +3,7 @@ SPDXID: "SPDXRef-DOCUMENT"
 spdxVersion: "SPDX-2.3"
 creationInfo:
   comment: "Converted from CycloneDX spec version 1.4"
-  created: "2023-08-15T05:55:14Z"
+  created: "2023-08-16T06:13:44Z"
   creators:
   - "Tool: CycloneDX:cyclonedx-bom-3.11.2"
   - "Tool: CycloneDX:cyclonedx-python-lib-3.1.5"
@@ -12,15 +12,15 @@ creationInfo:
 name: "SBOM-for-msgspec"
 dataLicense: "CC0-1.0"
 annotations:
-- annotationDate: "2023-08-15T05:55:19Z"
+- annotationDate: "2023-08-16T06:13:50Z"
   annotationType: "OTHER"
   annotator: "Tool: CycloneToSpdx"
   comment: "MISSING_CDX_PROPERTY:extensions={}"
-documentNamespace: "https://cyclonedx/88e031be-3e22-46c6-80e2-44bb0658a4bb_1"
+documentNamespace: "https://cyclonedx/fc0c3def-d8ef-40ec-b1b8-2f6c3a0470a8_1"
 packages:
-- SPDXID: "SPDXRef-be1f3387-a525-4dac-9bff-bbb7bdc77044"
+- SPDXID: "SPDXRef-6497b10a-2320-4da3-a097-bf457ea4930c"
   annotations:
-  - annotationDate: "2023-08-15T05:55:19Z"
+  - annotationDate: "2023-08-16T06:13:50Z"
     annotationType: "OTHER"
     annotator: "Tool: CycloneToSpdx"
     comment: "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
@@ -39,4 +39,4 @@ packages:
 relationships:
 - spdxElementId: "SPDXRef-DOCUMENT"
   relationshipType: "DESCRIBES"
-  relatedSpdxElement: "SPDXRef-be1f3387-a525-4dac-9bff-bbb7bdc77044"
+  relatedSpdxElement: "SPDXRef-6497b10a-2320-4da3-a097-bf457ea4930c"
