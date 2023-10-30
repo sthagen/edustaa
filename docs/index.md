@@ -10,7 +10,7 @@ Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, p
 [![Version](https://img.shields.io/pypi/v/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
 [![Downloads](https://static.pepy.tech/badge/edustaa/month)](https://pepy.tech/project/edustaa)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/edustaa.svg?style=flat)](https://pypi.python.org/pypi/edustaa/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/edustaa.svg?style=flat)](https://git.sr.ht/~sthagen/edustaa/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/edustaa/log)
 
 ## Bug Tracker
 
