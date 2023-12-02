@@ -1,7 +1,7 @@
 {
   "edustaa": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:16:58.559794",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:53:33 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,28 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 17,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 9,
+    "files": [
+      "edustaa/__init__.py",
+      "edustaa/api.py",
+      "edustaa/cli.py",
+      "edustaa/css.py",
+      "edustaa/html.py",
+      "edustaa/js.py",
+      "edustaa/md.py",
+      "edustaa/pdf.py",
+      "edustaa/troff.py"
+    ],
+    "blake3": "cbc582c0b1fe10cc6d14275bb7964316a98999a3ca060791abf02fc1fcdb9e72",
+    "blake2": "652ef9ecc0116dd6e29b65f22606646a8029545c26178304a5135450c2f884747d1ebb851f1d1caf8a6286a2305c6fbc98c6d8a2612bff4dcae6bb632ddb85e8",
+    "sha512": "ec92b057adb4ecfc5da44c15b6621823c28e068d3ff2ee59c6a8071ded7776a8b9d1417c11e1447ca5bb37389596e6983696ade248ab575b640c025830780fdc",
+    "sha384": "e2f00bc49f1de9b6dbbbf4b22a57c9ec540071cc654cd6be0e22b74d84c6beadb962888d8e2c870697ec8e1290469bd1",
+    "sha256": "af288798e9205cf33cc3801715d6f3b18c2f5abab19d39b1bd140f536c7dfcc2",
+    "sha1": "8a199096d03cc805f6cc323d0fb9b9f8aa914576",
+    "md5": "28be70bf5af313813fba39c85ca7351a",
+    "python_version": "3.11.4",
+    "entropy": 5.479298
   }
 }
