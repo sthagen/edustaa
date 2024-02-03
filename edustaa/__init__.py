@@ -1,4 +1,5 @@
-"""Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, pdf, and troff format guided by conventions."""
+"""Represent (Finnish: edustaa) markdown text parts as a whole in markdown, html, pdf, and troff format guided by conventions."""  # noqa
+
 import os
 import pathlib
 
